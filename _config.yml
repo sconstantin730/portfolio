@@ -1,9 +1,3 @@
 title: Stefania Constantin
 theme: jekyll-theme-minimal
-
-bio: Data Science Consultant with a strategy background and proven experience
-delivering analytics solutions that combine technical innovation with
-commercial impact. Skilled at turning data into actionable insights, with
-direct engagement at C-suite and Director levels. Experience in Python, SQL,
-scikit-learn, Tableau, and Power BI, with a focus on applying machine learning
-and statistical analysis to solve complex business problems.
+show_downloads: true
